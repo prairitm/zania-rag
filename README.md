@@ -16,7 +16,7 @@ This FastAPI application allows users to upload PDF documents, process them usin
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/yourusername/fastapi_app.git
-    cd fastapi_app
+    cd zania-rag
     ```
 
 2. **Create and activate a virtual environment:**
