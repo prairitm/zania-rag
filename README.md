@@ -1,5 +1,5 @@
 # zania-rag
-# FastAPI PDF Document Processing and QA Application
+# FastAPI PDF Document Processing and QA Application using Langchain and OpenAI
 
 This FastAPI application allows users to upload PDF documents, process them using LangChain for document processing, and query the documents using a question-answering system powered by OpenAI's GPT-3.5.
 
